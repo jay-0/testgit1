@@ -1,9 +1,9 @@
 from turtle import*
-class My turtle(Turtle):
- 	def draw Sqaure(self):
- 		for i in range (4)
+class MyTurtle(Turtle):
+ 	def drawSqaure(self):
+ 		for i in range(4):
 		self.right(90)
 		self.forward(100)
-my_turtle=My Turtle()
+my_turtle=MyTurtle()
 my_turtle.forward(100)
 my_turtle.drawSquare()
